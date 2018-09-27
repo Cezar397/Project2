@@ -1,0 +1,57 @@
+*{margin: 0; padding: 0;}
+
+#bara1 {
+	background-color: #00264d;
+	float: left;
+	width: 100%;
+	height: 50px;
+}
+
+#buton {
+	font-size: 20px;
+	font-family: Arial;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	height: 50px;
+	width: 100px;
+	float: left;
+	display: block;
+}
+
+#buton a {
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	display: block;
+	padding: 14px 16px;
+}
+
+#buton a:hover {
+	background-color: #001a33;
+}
+
+
+.register_container {
+	background-color: #00264d;
+	color: white;
+	border-radius: 1vw;
+	padding: 100px;
+	margin: 100px;
+
+}
+
+#register_input {
+
+}
+
+#register_text {
+
+}
+
+.register_container a {
+	color: dodgerblue;
+}
+
+
+
